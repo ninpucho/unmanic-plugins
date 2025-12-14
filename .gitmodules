@@ -1,0 +1,3 @@
+[submodule "source/smav2"]
+	path = source/smav2
+	url = https://github.com/ninpucho/unmanic.plugin.sma.git
